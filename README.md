@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ernesto Valdes Lujano</h1>
-<h3 align="center">Soy Backend y Frontend Developer.</h3>
+<h1 align="center">Ernesto Valdes Lujano</h1>
 
-- 💬 Ask me about **Javascript, Java, Php, Tailwind, ReactJS**
 
 - 📫 How to reach me **vernesto575@gmail.com**
 
