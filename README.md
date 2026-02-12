@@ -60,5 +60,5 @@ Actualmente enfocado en el desarrollo de aplicaciones web robustas y soluciones 
 
 ### 🤝 Conéctate conmigo
 <p align="left">
-<a href="https://fb.com/ernestovaldes" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="25" /></a>
+<a href="https://fb.com/Ernesto575830" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="25" /></a>
 </p>
