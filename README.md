@@ -14,7 +14,8 @@ Actualmente enfocado en el desarrollo de aplicaciones web robustas y soluciones 
 
 - 🌍 Mis proyectos destacados: [IMCUFIDE Ocuilan](https://imcufideocuilan.net/), [DIF Ocuilan](https://difocuilan.com/), [Zinacantepec](https://zinacantepec.gob.mx/Zinacantepec.php)
 - 📧 Contáctame: **vernesto575@gmail.com**
-- ⚡ Dato curioso: Me encanta trabajar con mapas interactivos y Leaflet.js.
+- 🤝 **Colaboración:** Soy flexible, me gusta el trabajo en equipo y siempre busco aportar ideas creativas para resolver problemas complejos.
+- ⚡ **Enfoque:** Especializado en la optimización de sistemas para garantizar el mejor funcionamiento y la mejor experiencia de usuario.
 
 ---
 
