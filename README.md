@@ -12,7 +12,7 @@
 ### 🚀 Sobre mí
 Actualmente enfocado en el desarrollo de aplicaciones web robustas y soluciones de inteligencia territorial. Me especializo en crear puentes entre los datos y la interfaz de usuario.
 
-- 🌍 Mis proyectos destacados: [IMCUFIDE Ocuilan](https://imcufideocuilan.net/), [DIF Ocuilan](https://difocuilan.com/)
+- 🌍 Mis proyectos destacados: [IMCUFIDE Ocuilan](https://imcufideocuilan.net/), [DIF Ocuilan](https://difocuilan.com/), [Zinacantepec](https://zinacantepec.gob.mx/Zinacantepec.php)
 - 📧 Contáctame: **vernesto575@gmail.com**
 - ⚡ Dato curioso: Me encanta trabajar con mapas interactivos y Leaflet.js.
 
